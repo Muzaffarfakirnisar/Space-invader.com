@@ -1,0 +1,25 @@
+
+body {
+  background-color: #91F4D9;
+
+}
+
+#r {
+  transform: translate(600%, 780%);
+  width: 50px;
+  position: fixed;
+  float: right;
+  border-radius: 20px;
+
+
+
+}
+
+#l {
+  transform: translate(0%, 780%);
+  width: 50px;
+  position: fixed;
+
+  border-radius: 20px;
+
+}
